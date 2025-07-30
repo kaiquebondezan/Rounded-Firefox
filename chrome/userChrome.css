@@ -128,7 +128,7 @@ Quote: https://userChrome.org | https://github.com/topics/userchrome
 @namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
 
 /* Altera a fonte da interface do Firefox */
-* {
+*:not(.titlebar-button):not(.titlebar-button > .toolbarbutton-icon) {
   font-family: "SF Pro Text", "San Francisco", system-ui, sans-serif !important;
 }
 
