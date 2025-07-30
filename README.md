@@ -2,7 +2,8 @@
 
 A simple theme inspired by [Firefox-Rounded-Theme](https://github.com/imshinyu/Firefox-Rounded-Theme), which applies rounded corners to the Firefox UI and allows you to customize the default interface font via `userChrome.css`.
 
-<img width="226" height="92" alt="image" src="https://github.com/user-attachments/assets/681cce61-cc41-4caf-87b7-42ef9aaab54f" />
+<img width="175" height="94" alt="image" src="https://github.com/user-attachments/assets/b4511365-07a2-4ae5-b107-08056a854878" />
+
 
 [PT 🇧🇷](https://github.com/kaiquebondezan/Rounded-Firefox/edit/main/README.md#-em-portugu%C3%AAs) / [EN 🇺🇸](https://github.com/kaiquebondezan/Rounded-Firefox/edit/main/README.md#-in-english)
 
